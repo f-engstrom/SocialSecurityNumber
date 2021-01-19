@@ -1,0 +1,11 @@
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\bin\Debug\netcoreapp2.1\SocialSecurityNumber.deps.json
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\bin\Debug\netcoreapp2.1\SocialSecurityNumber.runtimeconfig.json
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\bin\Debug\netcoreapp2.1\SocialSecurityNumber.runtimeconfig.dev.json
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\bin\Debug\netcoreapp2.1\SocialSecurityNumber.dll
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\bin\Debug\netcoreapp2.1\SocialSecurityNumber.pdb
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\obj\Debug\netcoreapp2.1\SocialSecurityNumber.csprojAssemblyReference.cache
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\obj\Debug\netcoreapp2.1\SocialSecurityNumber.csproj.CoreCompileInputs.cache
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\obj\Debug\netcoreapp2.1\SocialSecurityNumber.AssemblyInfoInputs.cache
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\obj\Debug\netcoreapp2.1\SocialSecurityNumber.AssemblyInfo.cs
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\obj\Debug\netcoreapp2.1\SocialSecurityNumber.dll
+C:\Users\Frans\Dropbox\Projects\SocialSecurityNumber\obj\Debug\netcoreapp2.1\SocialSecurityNumber.pdb
